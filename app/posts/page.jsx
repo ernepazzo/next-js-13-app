@@ -1,5 +1,10 @@
-export default function PostPage() {
+import { ListOfPosts } from "./ListOfPosts";
+
+export default async function PostPage({ params }) {
+
   return (
-    <h1>Estos son los posts</h1>
-  )
+    <section>
+      <ListOfPosts />
+    </section>
+  );
 }
