@@ -63,6 +63,11 @@
   dependencies:
     glob "7.1.7"
 
+"@next/font@13.1.1":
+  version "13.1.1"
+  resolved "https://registry.yarnpkg.com/@next/font/-/font-13.1.1.tgz#a0cb38bf8a181560f195d82f13f9f92fd0b0dd20"
+  integrity sha512-amygRorS05hYK1/XQRZo5qBl7l2fpHnezeKU/cNveWU5QJg+sg8gMGkUXHtvesNKpiKIJshBRH1TzvO+2sKpvQ==
+
 "@next/swc-android-arm-eabi@13.1.1":
   version "13.1.1"
   resolved "https://registry.yarnpkg.com/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-13.1.1.tgz#b5c3cd1f79d5c7e6a3b3562785d4e5ac3555b9e1"
@@ -1802,7 +1807,7 @@ standard-engine@^15.0.0:
     pkg-conf "^3.1.0"
     xdg-basedir "^4.0.0"
 
-standard@^17.0.0:
+standard@17.0.0:
   version "17.0.0"
   resolved "https://registry.yarnpkg.com/standard/-/standard-17.0.0.tgz#85718ecd04dc4133908434660788708cca855aa1"
   integrity sha512-GlCM9nzbLUkr+TYR5I2WQoIah4wHA2lMauqbyPLV/oI5gJxqhHzhjl9EG2N0lr/nRqI3KCbCvm/W3smxvLaChA==
